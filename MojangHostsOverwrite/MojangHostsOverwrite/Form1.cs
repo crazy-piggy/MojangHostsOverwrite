@@ -24,7 +24,11 @@ namespace MojangHostsOverwrite
 
         private void label1_Click(object sender, EventArgs e)
         {
-            pictureBox1.Hide();
+            Background.Visible = !Background.Visible;
+            labelAuth.BackColor = Background.Visible ? Color.FromArgb(238, 51, 59) : Color.Transparent;
+            labelAuthIP1.BackColor = Background.Visible ? Color.FromArgb(238, 51, 59) : Color.Transparent;
+            labelButton.BackColor = Background.Visible ? Color.FromArgb(238, 51, 59) : Color.Transparent;
+
         }
     }
 }

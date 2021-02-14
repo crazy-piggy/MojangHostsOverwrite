@@ -42,7 +42,7 @@ namespace MojangHostsOverwrite
             // labelAuth
             // 
             this.labelAuth.AutoSize = true;
-            this.labelAuth.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(238)))), ((int)(((byte)(51)))), ((int)(((byte)(59)))));
+            this.labelAuth.BackColor = System.Drawing.Color.Transparent;
             this.labelAuth.Location = new System.Drawing.Point(12, 15);
             this.labelAuth.Name = "labelAuth";
             this.labelAuth.Size = new System.Drawing.Size(77, 12);

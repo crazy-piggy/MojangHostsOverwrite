@@ -1,0 +1,10 @@
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\bin\Debug\MojangHostsOverwrite.exe.config
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\bin\Debug\MojangHostsOverwrite.exe
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\bin\Debug\MojangHostsOverwrite.pdb
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.csprojAssemblyReference.cache
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.Form1.resources
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.Properties.Resources.resources
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.csproj.GenerateResource.cache
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.csproj.CoreCompileInputs.cache
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.exe
+D:\Github\MojangHostsOverwrite\MojangHostsOverwrite\MojangHostsOverwrite\obj\Debug\MojangHostsOverwrite.pdb
